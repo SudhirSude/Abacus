@@ -1,0 +1,201 @@
+doctor_id,first_name,last_name,full_name,specialty,network_status,hospital
+DOC00001,James,Davis,Dr. James Davis,Family Medicine,In-Network,Memorial Hospital
+DOC00002,Nancy,Sanchez,Dr. Nancy Sanchez,Internal Medicine,Out-of-Network,Central Hospital
+DOC00003,Michelle,Johnson,Dr. Michelle Johnson,Gastroenterology,In-Network,General Hospital
+DOC00004,Richard,Perez,Dr. Richard Perez,Gastroenterology,In-Network,Memorial Hospital
+DOC00005,Donald,Walker,Dr. Donald Walker,Endocrinology,In-Network,St. Mary Hospital
+DOC00006,William,Walker,Dr. William Walker,Neurology,In-Network,Regional Hospital
+DOC00007,Paul,Perez,Dr. Paul Perez,Radiology,In-Network,Regional Hospital
+DOC00008,Patricia,King,Dr. Patricia King,Pediatrics,Out-of-Network,Central Hospital
+DOC00009,Christopher,Scott,Dr. Christopher Scott,Anesthesiology,In-Network,St. Mary Hospital
+DOC00010,Susan,Torres,Dr. Susan Torres,Family Medicine,In-Network,Memorial Hospital
+DOC00011,Daniel,Jones,Dr. Daniel Jones,Neurology,In-Network,Memorial Hospital
+DOC00012,Mary,Perez,Dr. Mary Perez,Psychiatry,Out-of-Network,Central Hospital
+DOC00013,David,Torres,Dr. David Torres,Emergency Medicine,In-Network,Regional Hospital
+DOC00014,Elizabeth,Hill,Dr. Elizabeth Hill,Orthopedics,In-Network,Memorial Hospital
+DOC00015,Christopher,Williams,Dr. Christopher Williams,Pediatrics,In-Network,Regional Hospital
+DOC00016,Jennifer,Young,Dr. Jennifer Young,Nephrology,In-Network,General Hospital
+DOC00017,Lisa,Lewis,Dr. Lisa Lewis,Gastroenterology,In-Network,Memorial Hospital
+DOC00018,Susan,King,Dr. Susan King,Pediatrics,In-Network,General Hospital
+DOC00019,Linda,White,Dr. Linda White,Endocrinology,In-Network,St. Mary Hospital
+DOC00020,Richard,Garcia,Dr. Richard Garcia,Radiology,In-Network,Central Hospital
+DOC00021,Mary,Walker,Dr. Mary Walker,Nephrology,In-Network,Central Hospital
+DOC00022,Barbara,Gonzalez,Dr. Barbara Gonzalez,Dermatology,In-Network,Regional Hospital
+DOC00023,Kimberly,Martin,Dr. Kimberly Martin,Endocrinology,In-Network,Memorial Hospital
+DOC00024,Barbara,Miller,Dr. Barbara Miller,Gastroenterology,In-Network,Central Hospital
+DOC00025,William,Wilson,Dr. William Wilson,Internal Medicine,In-Network,St. Mary Hospital
+DOC00026,Sandra,Harris,Dr. Sandra Harris,Internal Medicine,In-Network,Central Hospital
+DOC00027,Linda,Smith,Dr. Linda Smith,Pediatrics,In-Network,St. Mary Hospital
+DOC00028,Joshua,Garcia,Dr. Joshua Garcia,Dermatology,In-Network,Regional Hospital
+DOC00029,John,Miller,Dr. John Miller,Anesthesiology,In-Network,Memorial Hospital
+DOC00030,Mary,Torres,Dr. Mary Torres,Endocrinology,In-Network,Memorial Hospital
+DOC00031,Susan,Lee,Dr. Susan Lee,Oncology,In-Network,General Hospital
+DOC00032,Charles,Moore,Dr. Charles Moore,Anesthesiology,In-Network,Memorial Hospital
+DOC00033,Mark,Davis,Dr. Mark Davis,Pediatrics,In-Network,General Hospital
+DOC00034,David,Moore,Dr. David Moore,Orthopedics,Out-of-Network,St. Mary Hospital
+DOC00035,Michelle,Scott,Dr. Michelle Scott,Anesthesiology,Out-of-Network,St. Mary Hospital
+DOC00036,Susan,Wright,Dr. Susan Wright,Dermatology,In-Network,Central Hospital
+DOC00037,Christopher,Moore,Dr. Christopher Moore,Neurology,In-Network,Memorial Hospital
+DOC00038,Andrew,Thomas,Dr. Andrew Thomas,Neurology,In-Network,St. Mary Hospital
+DOC00039,Karen,Flores,Dr. Karen Flores,Nephrology,In-Network,Memorial Hospital
+DOC00040,Paul,Lewis,Dr. Paul Lewis,Cardiology,In-Network,General Hospital
+DOC00041,Mary,Walker,Dr. Mary Walker,Nephrology,In-Network,St. Mary Hospital
+DOC00042,Michael,Harris,Dr. Michael Harris,Cardiology,In-Network,St. Mary Hospital
+DOC00043,Margaret,Sanchez,Dr. Margaret Sanchez,Neurology,In-Network,Central Hospital
+DOC00044,Donna,Lewis,Dr. Donna Lewis,Emergency Medicine,Out-of-Network,Memorial Hospital
+DOC00045,Karen,Perez,Dr. Karen Perez,Gastroenterology,In-Network,General Hospital
+DOC00046,Paul,Garcia,Dr. Paul Garcia,Nephrology,In-Network,Regional Hospital
+DOC00047,Andrew,Rodriguez,Dr. Andrew Rodriguez,Orthopedics,In-Network,Regional Hospital
+DOC00048,Michael,Robinson,Dr. Michael Robinson,Pediatrics,In-Network,Regional Hospital
+DOC00049,Donald,Anderson,Dr. Donald Anderson,Oncology,In-Network,General Hospital
+DOC00050,Michelle,Taylor,Dr. Michelle Taylor,Nephrology,In-Network,Memorial Hospital
+DOC00051,Betty,Lopez,Dr. Betty Lopez,Internal Medicine,Out-of-Network,Memorial Hospital
+DOC00052,Christopher,Robinson,Dr. Christopher Robinson,Radiology,In-Network,St. Mary Hospital
+DOC00053,Robert,Walker,Dr. Robert Walker,Orthopedics,Out-of-Network,Memorial Hospital
+DOC00054,Donald,Robinson,Dr. Donald Robinson,Gastroenterology,Out-of-Network,General Hospital
+DOC00055,Charles,Thompson,Dr. Charles Thompson,Emergency Medicine,In-Network,Central Hospital
+DOC00056,William,Allen,Dr. William Allen,Orthopedics,Out-of-Network,Regional Hospital
+DOC00057,Michael,Lee,Dr. Michael Lee,Anesthesiology,In-Network,St. Mary Hospital
+DOC00058,Karen,Wright,Dr. Karen Wright,Radiology,In-Network,Regional Hospital
+DOC00059,Donna,Clark,Dr. Donna Clark,Oncology,In-Network,Central Hospital
+DOC00060,Jessica,Scott,Dr. Jessica Scott,Neurology,In-Network,Regional Hospital
+DOC00061,Matthew,Jones,Dr. Matthew Jones,Dermatology,In-Network,General Hospital
+DOC00062,Donna,Ramirez,Dr. Donna Ramirez,Endocrinology,In-Network,Regional Hospital
+DOC00063,Andrew,Perez,Dr. Andrew Perez,Anesthesiology,In-Network,General Hospital
+DOC00064,Elizabeth,Jones,Dr. Elizabeth Jones,Internal Medicine,In-Network,Central Hospital
+DOC00065,Ashley,Davis,Dr. Ashley Davis,Emergency Medicine,In-Network,Central Hospital
+DOC00066,Sandra,Lee,Dr. Sandra Lee,Anesthesiology,In-Network,St. Mary Hospital
+DOC00067,Mark,Lopez,Dr. Mark Lopez,Pediatrics,In-Network,Regional Hospital
+DOC00068,Robert,Hill,Dr. Robert Hill,Orthopedics,In-Network,Central Hospital
+DOC00069,Matthew,Lee,Dr. Matthew Lee,Radiology,In-Network,St. Mary Hospital
+DOC00070,Jennifer,Wilson,Dr. Jennifer Wilson,Gastroenterology,Out-of-Network,General Hospital
+DOC00071,Donna,Smith,Dr. Donna Smith,Endocrinology,In-Network,General Hospital
+DOC00072,Barbara,Lewis,Dr. Barbara Lewis,Anesthesiology,In-Network,Memorial Hospital
+DOC00073,Matthew,Flores,Dr. Matthew Flores,Emergency Medicine,In-Network,Regional Hospital
+DOC00074,Richard,Wilson,Dr. Richard Wilson,Family Medicine,In-Network,Memorial Hospital
+DOC00075,Karen,Torres,Dr. Karen Torres,Endocrinology,In-Network,Memorial Hospital
+DOC00076,Margaret,Thompson,Dr. Margaret Thompson,Orthopedics,In-Network,Central Hospital
+DOC00077,James,Flores,Dr. James Flores,Anesthesiology,In-Network,Regional Hospital
+DOC00078,William,Jackson,Dr. William Jackson,Cardiology,In-Network,Memorial Hospital
+DOC00079,Emily,Brown,Dr. Emily Brown,Cardiology,In-Network,Central Hospital
+DOC00080,Daniel,Davis,Dr. Daniel Davis,Gastroenterology,In-Network,Memorial Hospital
+DOC00081,Mary,Thomas,Dr. Mary Thomas,Psychiatry,Out-of-Network,Central Hospital
+DOC00082,Betty,Lee,Dr. Betty Lee,Internal Medicine,In-Network,Regional Hospital
+DOC00083,Betty,Harris,Dr. Betty Harris,Psychiatry,In-Network,Central Hospital
+DOC00084,Susan,Lopez,Dr. Susan Lopez,Radiology,In-Network,General Hospital
+DOC00085,Richard,Scott,Dr. Richard Scott,Psychiatry,In-Network,Memorial Hospital
+DOC00086,Anthony,Martinez,Dr. Anthony Martinez,Pediatrics,In-Network,General Hospital
+DOC00087,William,Smith,Dr. William Smith,Orthopedics,In-Network,St. Mary Hospital
+DOC00088,Barbara,Young,Dr. Barbara Young,Family Medicine,In-Network,Regional Hospital
+DOC00089,William,Garcia,Dr. William Garcia,Neurology,Out-of-Network,Regional Hospital
+DOC00090,Sandra,Hill,Dr. Sandra Hill,Nephrology,In-Network,Regional Hospital
+DOC00091,Michelle,Lopez,Dr. Michelle Lopez,Radiology,In-Network,Central Hospital
+DOC00092,Margaret,Scott,Dr. Margaret Scott,Gastroenterology,In-Network,Regional Hospital
+DOC00093,Matthew,Thompson,Dr. Matthew Thompson,Oncology,In-Network,General Hospital
+DOC00094,Margaret,Hill,Dr. Margaret Hill,Cardiology,In-Network,Central Hospital
+DOC00095,Ashley,Thomas,Dr. Ashley Thomas,Internal Medicine,In-Network,Central Hospital
+DOC00096,Sarah,Clark,Dr. Sarah Clark,Nephrology,In-Network,Central Hospital
+DOC00097,Andrew,White,Dr. Andrew White,Cardiology,In-Network,St. Mary Hospital
+DOC00098,Andrew,Walker,Dr. Andrew Walker,Internal Medicine,In-Network,Memorial Hospital
+DOC00099,Linda,Nguyen,Dr. Linda Nguyen,Radiology,In-Network,St. Mary Hospital
+DOC00100,Barbara,King,Dr. Barbara King,Gastroenterology,In-Network,Memorial Hospital
+DOC00101,Sandra,King,Dr. Sandra King,Orthopedics,In-Network,Central Hospital
+DOC00102,Michelle,Garcia,Dr. Michelle Garcia,Oncology,In-Network,Regional Hospital
+DOC00103,Robert,Wright,Dr. Robert Wright,Endocrinology,In-Network,Central Hospital
+DOC00104,Karen,Flores,Dr. Karen Flores,Cardiology,In-Network,Memorial Hospital
+DOC00105,Paul,Smith,Dr. Paul Smith,Radiology,Out-of-Network,Regional Hospital
+DOC00106,Steven,Walker,Dr. Steven Walker,Emergency Medicine,In-Network,Memorial Hospital
+DOC00107,Anthony,Thompson,Dr. Anthony Thompson,Endocrinology,In-Network,Memorial Hospital
+DOC00108,Charles,Hernandez,Dr. Charles Hernandez,Cardiology,In-Network,Central Hospital
+DOC00109,Karen,Torres,Dr. Karen Torres,Pediatrics,In-Network,St. Mary Hospital
+DOC00110,Donald,Nguyen,Dr. Donald Nguyen,Neurology,In-Network,Central Hospital
+DOC00111,Patricia,Jackson,Dr. Patricia Jackson,Endocrinology,In-Network,Central Hospital
+DOC00112,Mary,Jackson,Dr. Mary Jackson,Radiology,In-Network,St. Mary Hospital
+DOC00113,William,Allen,Dr. William Allen,Orthopedics,Out-of-Network,Memorial Hospital
+DOC00114,Thomas,Rodriguez,Dr. Thomas Rodriguez,Emergency Medicine,In-Network,Memorial Hospital
+DOC00115,Sarah,Taylor,Dr. Sarah Taylor,Cardiology,In-Network,St. Mary Hospital
+DOC00116,Joshua,Lopez,Dr. Joshua Lopez,Nephrology,Out-of-Network,Central Hospital
+DOC00117,Barbara,Lewis,Dr. Barbara Lewis,Dermatology,In-Network,General Hospital
+DOC00118,Thomas,Thomas,Dr. Thomas Thomas,Radiology,In-Network,General Hospital
+DOC00119,Kimberly,Williams,Dr. Kimberly Williams,Dermatology,Out-of-Network,St. Mary Hospital
+DOC00120,Barbara,Hill,Dr. Barbara Hill,Nephrology,In-Network,General Hospital
+DOC00121,Ashley,Clark,Dr. Ashley Clark,Endocrinology,In-Network,Regional Hospital
+DOC00122,Jessica,Lewis,Dr. Jessica Lewis,Internal Medicine,Out-of-Network,General Hospital
+DOC00123,Susan,Torres,Dr. Susan Torres,Internal Medicine,In-Network,Memorial Hospital
+DOC00124,Patricia,Taylor,Dr. Patricia Taylor,Endocrinology,In-Network,St. Mary Hospital
+DOC00125,Patricia,Hernandez,Dr. Patricia Hernandez,Radiology,In-Network,Regional Hospital
+DOC00126,Donald,Martin,Dr. Donald Martin,Radiology,In-Network,Central Hospital
+DOC00127,Joseph,Harris,Dr. Joseph Harris,Family Medicine,In-Network,Regional Hospital
+DOC00128,Donald,Taylor,Dr. Donald Taylor,Neurology,Out-of-Network,Central Hospital
+DOC00129,Margaret,Smith,Dr. Margaret Smith,Pediatrics,In-Network,Regional Hospital
+DOC00130,Matthew,Lee,Dr. Matthew Lee,Anesthesiology,In-Network,St. Mary Hospital
+DOC00131,Michael,Wright,Dr. Michael Wright,Family Medicine,In-Network,Memorial Hospital
+DOC00132,Margaret,Flores,Dr. Margaret Flores,Nephrology,In-Network,Memorial Hospital
+DOC00133,Nancy,Moore,Dr. Nancy Moore,Pediatrics,In-Network,St. Mary Hospital
+DOC00134,Thomas,Nguyen,Dr. Thomas Nguyen,Psychiatry,In-Network,Regional Hospital
+DOC00135,Jessica,Nguyen,Dr. Jessica Nguyen,Endocrinology,Out-of-Network,General Hospital
+DOC00136,Kimberly,Perez,Dr. Kimberly Perez,Family Medicine,In-Network,General Hospital
+DOC00137,Christopher,Scott,Dr. Christopher Scott,Cardiology,In-Network,St. Mary Hospital
+DOC00138,Robert,Smith,Dr. Robert Smith,Psychiatry,In-Network,St. Mary Hospital
+DOC00139,Kimberly,Miller,Dr. Kimberly Miller,Family Medicine,In-Network,Regional Hospital
+DOC00140,Daniel,Anderson,Dr. Daniel Anderson,Internal Medicine,Out-of-Network,Memorial Hospital
+DOC00141,Thomas,Gonzalez,Dr. Thomas Gonzalez,Cardiology,Out-of-Network,St. Mary Hospital
+DOC00142,Michelle,Garcia,Dr. Michelle Garcia,Cardiology,In-Network,Central Hospital
+DOC00143,Susan,Hill,Dr. Susan Hill,Family Medicine,In-Network,St. Mary Hospital
+DOC00144,Linda,Garcia,Dr. Linda Garcia,Gastroenterology,In-Network,Central Hospital
+DOC00145,William,Harris,Dr. William Harris,Family Medicine,In-Network,Central Hospital
+DOC00146,Elizabeth,Davis,Dr. Elizabeth Davis,Internal Medicine,In-Network,General Hospital
+DOC00147,Thomas,Jackson,Dr. Thomas Jackson,Radiology,In-Network,St. Mary Hospital
+DOC00148,Sandra,Moore,Dr. Sandra Moore,Endocrinology,In-Network,Regional Hospital
+DOC00149,Christopher,Taylor,Dr. Christopher Taylor,Neurology,In-Network,St. Mary Hospital
+DOC00150,Sarah,Brown,Dr. Sarah Brown,Psychiatry,In-Network,Regional Hospital
+DOC00151,Nancy,Brown,Dr. Nancy Brown,Pediatrics,Out-of-Network,Memorial Hospital
+DOC00152,Elizabeth,Lewis,Dr. Elizabeth Lewis,Orthopedics,In-Network,Regional Hospital
+DOC00153,Richard,Flores,Dr. Richard Flores,Psychiatry,In-Network,General Hospital
+DOC00154,Ashley,Miller,Dr. Ashley Miller,Neurology,In-Network,Central Hospital
+DOC00155,Margaret,Wilson,Dr. Margaret Wilson,Emergency Medicine,Out-of-Network,St. Mary Hospital
+DOC00156,Mark,Taylor,Dr. Mark Taylor,Orthopedics,In-Network,St. Mary Hospital
+DOC00157,Robert,Jones,Dr. Robert Jones,Emergency Medicine,In-Network,Memorial Hospital
+DOC00158,Mark,Johnson,Dr. Mark Johnson,Nephrology,In-Network,Regional Hospital
+DOC00159,Barbara,Smith,Dr. Barbara Smith,Nephrology,In-Network,St. Mary Hospital
+DOC00160,Matthew,Moore,Dr. Matthew Moore,Neurology,In-Network,Memorial Hospital
+DOC00161,Betty,Torres,Dr. Betty Torres,Cardiology,In-Network,Central Hospital
+DOC00162,Ashley,Walker,Dr. Ashley Walker,Psychiatry,In-Network,Regional Hospital
+DOC00163,Robert,Wright,Dr. Robert Wright,Oncology,In-Network,St. Mary Hospital
+DOC00164,Matthew,Walker,Dr. Matthew Walker,Orthopedics,In-Network,Central Hospital
+DOC00165,Paul,Thompson,Dr. Paul Thompson,Dermatology,In-Network,Memorial Hospital
+DOC00166,Betty,Brown,Dr. Betty Brown,Family Medicine,In-Network,St. Mary Hospital
+DOC00167,Lisa,Wright,Dr. Lisa Wright,Gastroenterology,In-Network,Memorial Hospital
+DOC00168,Jennifer,Robinson,Dr. Jennifer Robinson,Endocrinology,In-Network,Memorial Hospital
+DOC00169,Richard,Lopez,Dr. Richard Lopez,Anesthesiology,In-Network,St. Mary Hospital
+DOC00170,Matthew,Gonzalez,Dr. Matthew Gonzalez,Pediatrics,In-Network,Regional Hospital
+DOC00171,Michael,Thompson,Dr. Michael Thompson,Radiology,In-Network,St. Mary Hospital
+DOC00172,Mark,Gonzalez,Dr. Mark Gonzalez,Neurology,In-Network,St. Mary Hospital
+DOC00173,Richard,Johnson,Dr. Richard Johnson,Internal Medicine,In-Network,Central Hospital
+DOC00174,Jessica,Young,Dr. Jessica Young,Psychiatry,In-Network,St. Mary Hospital
+DOC00175,Paul,Martin,Dr. Paul Martin,Radiology,In-Network,Central Hospital
+DOC00176,Mark,Johnson,Dr. Mark Johnson,Cardiology,In-Network,Memorial Hospital
+DOC00177,Patricia,Perez,Dr. Patricia Perez,Endocrinology,In-Network,St. Mary Hospital
+DOC00178,Betty,Davis,Dr. Betty Davis,Oncology,In-Network,Central Hospital
+DOC00179,Sandra,Wright,Dr. Sandra Wright,Neurology,Out-of-Network,Central Hospital
+DOC00180,Joseph,Jones,Dr. Joseph Jones,Cardiology,In-Network,General Hospital
+DOC00181,Ashley,Johnson,Dr. Ashley Johnson,Radiology,In-Network,Central Hospital
+DOC00182,John,Thomas,Dr. John Thomas,Internal Medicine,In-Network,General Hospital
+DOC00183,James,Lopez,Dr. James Lopez,Family Medicine,Out-of-Network,St. Mary Hospital
+DOC00184,Karen,Miller,Dr. Karen Miller,Radiology,Out-of-Network,Central Hospital
+DOC00185,David,Nguyen,Dr. David Nguyen,Orthopedics,In-Network,St. Mary Hospital
+DOC00186,Linda,Young,Dr. Linda Young,Emergency Medicine,In-Network,Central Hospital
+DOC00187,Joseph,Jones,Dr. Joseph Jones,Endocrinology,In-Network,General Hospital
+DOC00188,Margaret,Perez,Dr. Margaret Perez,Endocrinology,In-Network,Regional Hospital
+DOC00189,Christopher,Davis,Dr. Christopher Davis,Family Medicine,In-Network,Central Hospital
+DOC00190,Paul,Rodriguez,Dr. Paul Rodriguez,Dermatology,In-Network,General Hospital
+DOC00191,John,Nguyen,Dr. John Nguyen,Neurology,In-Network,Memorial Hospital
+DOC00192,Robert,Davis,Dr. Robert Davis,Pediatrics,Out-of-Network,General Hospital
+DOC00193,Anthony,Hernandez,Dr. Anthony Hernandez,Internal Medicine,Out-of-Network,Memorial Hospital
+DOC00194,Emily,Hernandez,Dr. Emily Hernandez,Radiology,In-Network,General Hospital
+DOC00195,Donna,Williams,Dr. Donna Williams,Neurology,In-Network,St. Mary Hospital
+DOC00196,Michelle,Harris,Dr. Michelle Harris,Endocrinology,In-Network,General Hospital
+DOC00197,Mary,Young,Dr. Mary Young,Orthopedics,In-Network,St. Mary Hospital
+DOC00198,James,Lopez,Dr. James Lopez,Nephrology,Out-of-Network,St. Mary Hospital
+DOC00199,Donna,Jackson,Dr. Donna Jackson,Psychiatry,Out-of-Network,Regional Hospital
+DOC00200,William,Wilson,Dr. William Wilson,Neurology,In-Network,Memorial Hospital
