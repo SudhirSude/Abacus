@@ -5,5 +5,7 @@ faiss-cpu==1.7.4
 streamlit==1.29.0
 PyPDF2==3.0.1
 reportlab==4.0.7
-groq==0.4.1
+groq
 python-dotenv==1.0.0
+plotly==5.18.0
+kaleido==0.2.1

@@ -47,6 +47,11 @@ class QueryRouter:
         """Determine the type of query"""
         query_lower = query.lower()
         
+        # Check for exact claim ID - HIGHEST PRIORITY
+        claim_id_match = re.search(r'\b(CLM\d+)\b', query, re.IGNORECASE)
+        if claim_id_match:
+            return QueryType.SPECIFIC
+        
         # Check for specific claims query FIRST (higher priority)
         # This includes queries asking for lists, details, or specific information
         specific_score = sum(1 for keyword in self.specific_keywords if keyword in query_lower)
@@ -188,6 +193,14 @@ class QueryTranslator:
         
         return None
     
+    def extract_claim_id(self, query: str) -> Optional[str]:
+        """Extract claim ID from query (e.g., CLM0000001, CLM0000002)"""
+        # Match patterns like CLM followed by digits
+        claim_id_match = re.search(r'\b(CLM\d+)\b', query, re.IGNORECASE)
+        if claim_id_match:
+            return claim_id_match.group(1).upper()
+        return None
+    
     def translate(self, query: str) -> Dict:
         """
         Translate natural language query into structured format
@@ -218,6 +231,12 @@ class QueryTranslator:
         if status:
             translation['entities']['status'] = status
             translation['filters']['claim_status'] = status
+        
+        # Extract claim ID
+        claim_id = self.extract_claim_id(query)
+        if claim_id:
+            translation['entities']['claim_id'] = claim_id
+            translation['filters']['claim_id'] = claim_id
         
         return translation
 
